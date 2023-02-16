@@ -19,7 +19,7 @@
 ####    👌 My 23 goals in 2023
 
 - [ ] Won a scholarship for the 2nd semester of the 2nd year
-- [ ] Learn 1500 English words (Present: > 41 English words)
+- [ ] Learn 1500 English words (Present: > 150 English words)
 - [ ] Completed 3 big projects, 5 projects and won awards, priority in AI field (Currently: 0 big projects, 0 projects, 0 awards)
 - [ ] Hit the gym and gain 7 kg of muscle (Start 52kg, result 59kg, Present: 52kg)
 - [ ] Go to practice
