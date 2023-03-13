@@ -26,11 +26,13 @@
 ### <a src="" width="35"><b></b>
 
 <div align="center">
+  
 *For a meeting come 10 minutes early\
 For a task, finish it 10 hours early\
 For a project, finish it 10 days in advance\
 In the future, always prepare a good plan\
                                -Salmon-*
+  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </div>
 
