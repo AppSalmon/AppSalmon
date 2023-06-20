@@ -11,8 +11,8 @@
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>My 5 goals in 2023👌</b>
 
 - [ ] Won a scholarship for the 2nd semester of the 2nd year.
-- [ ] Learned 1500 English words (currently knows > 800 English words).
-- [ ] Completed 3 big projects, 5 projects and won awards, priority in AI field (Currently: 0 big projects, 2 projects, 0 awards).
+- [X] Learned 1500 English words (currently knows > 800 English words).
+- [X] Completed 3 big projects, 5 projects and won awards, priority in AI field (Currently: 5 big projects, >5 projects, 1 awards).
 - [ ] Worked out at the gym and gained 7 kg of muscle (started at 52kg, ended at 59kg, currently weighs 52kg).
 - [X] Go to practice (Internship at RTA company).
 
