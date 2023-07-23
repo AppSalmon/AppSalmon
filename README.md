@@ -4,10 +4,10 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - Currently learning Artificial Intelligence by myself.
-- An intern as a data engineer at RTA company.
-- A second-year student at the Industrial University of Ho Chi Minh City
+- An intern as a data engineer at [RTA](https://rta.vn/) company.
+- A second-year student at the [Industrial University of Ho Chi Minh City](https://iuh.edu.vn/)
 - Have participated in competitive programming [Codeforces](https://codeforces.com/profile/Salmon1)
-- My blog [Salmon](https://appsalmon.github.io/)
+- My blog - [AppSalmon](https://appsalmon.github.io/)
   
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>My 5 goals in 2023👌</b>
 
