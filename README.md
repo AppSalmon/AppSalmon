@@ -9,13 +9,15 @@
 - Have participated in competitive programming [Codeforces](https://codeforces.com/profile/Salmon1)
 - My blog - [AppSalmon](https://appsalmon.github.io/)
   
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>My 5 goals in 2023👌</b>
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>My 7 goals in 2023👌</b>
 
 - [ ] Won a scholarship for the 1st semester of the 3rd year.
-- [X] Learned 1500 English words (currently knows > 1800 English words).
-- [X] Completed 3 big projects, 5 projects and won awards, priority in AI field (Currently: 5 big projects, >5 projects, 1 award).
-- [ ] Worked out at the gym and gained 7 kg of muscle (started at 52kg, ended at 59kg, currently weighs 52kg).
-- [X] Go to practice (Internship at RTA company).
+- [ ] Learned 1500 English words, Read 10 bilingual books, Listen and understand English videos, Can talk with foreigners - (currently knows > 1800 English words).
+- [ ] Completed 3 big projects, 5 projects and won awards, priority in AI field, Complete the [Deep Learning Specialization certification](https://www.coursera.org/specializations/deep-learning) - (Currently: 5 big projects, 10+ projects, 1 award).
+- [X] Speakers in a hall of > 500 people.
+- [X] Go to practice (Internship at [RTA](https://rta.vn/) company).
+- [ ] 2 paper approved and published by international conference.
+- [ ] Become a member of [AISIA Research Lab](https://aisia.vn/) or [VinBigData/VinAI](https://institute.vinbigdata.org/newpresses/chuong-trinh-dao-tao-ky-su-ai-cua-vingroup-tuyen-sinh-nam-thu-4/)
 
 ### <a src="" width="35"><b></b>
 
