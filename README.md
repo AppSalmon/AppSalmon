@@ -8,8 +8,10 @@
 - A second-year student at the [Industrial University of Ho Chi Minh City](https://iuh.edu.vn/)
 - Have participated in competitive programming [Codeforces](https://codeforces.com/profile/Salmon1)
 - My blog - [AppSalmon](https://appsalmon.github.io/)
-  
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>My 7 goals in 2023👌</b>
+
+
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>✨My 7 goals in 2023</b>
 
 - [ ] Won a scholarship for the 1st semester of the 3rd year.
 - [ ] Learned 1500 English words, Read 10 bilingual books, Listen and understand English videos, Can talk with foreigners - (currently knows > 1800 English words).
@@ -18,6 +20,14 @@
 - [X] Go to practice (Internship at [RTA](https://rta.vn/) company).
 - [ ] 2 paper approved and published by international conference.
 - [ ] Become a member of [AISIA Research Lab](https://aisia.vn/) or [VinBigData/VinAI](https://institute.vinbigdata.org/newpresses/chuong-trinh-dao-tao-ky-su-ai-cua-vingroup-tuyen-sinh-nam-thu-4/)
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>🌠Further goals</b>
+
+- [ ] Win Ph.D. fellowships in the top-ranked universities worldwide.
+- [ ] Own a business.
+
+
+![MountainClimbingAxePickGIF](https://github.com/AppSalmon/AppSalmon/assets/120777599/340a994a-f691-41f6-9630-3b8ba009f550)
 
 ### <a src="" width="35"><b></b>
 
