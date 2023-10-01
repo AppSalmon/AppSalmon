@@ -29,7 +29,7 @@
   - [ ] Semester 1 Scholarship.
   - [ ] Semester 2 Scholarship.
 - [ ] Learned 3000 more English words, Read 10 bilingual books, Listen and understand English videos, Can talk with foreigners🗽
-  - [ ] 3000 more English words.
+  - [ ] 3000 more English words. <!-- 1823 + 3000 = 4823 -->
   - [ ] Read 10 bilingual books.
   - [ ] Listen and understand English videos.
   - [ ] Can talk to foreigners.
