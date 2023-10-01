@@ -25,33 +25,30 @@
 
 *After having achieved all the 2023 goals ahead of schedule, I will begin pursuing the 2024 goals on October 1, 2023*
 
-**Good GPA:**
-- [ ] Won a scholarship for the 1st and 2nd semester of the 3rd year.
+- [ ] Won a scholarship for the 1st and 2nd semester of the 3rd year🧑‍🎓
   - [ ] Semester 1 Scholarship.
   - [ ] Semester 2 Scholarship.
-
-**Good English:**
-- [ ] Learned 3000 more English words, Read 10 bilingual books, Listen and understand English videos, Can talk with foreigners.
+- [ ] Learned 3000 more English words, Read 10 bilingual books, Listen and understand English videos, Can talk with foreigners🗽
   - [ ] 3000 more English words.
   - [ ] Read 10 bilingual books.
   - [ ] Listen and understand English videos.
   - [ ] Can talk to foreigners.
-
-**Good Field:**
-- [ ] Completed 5 big projects, 12 projects and won awards, priority in AI field and complete the [Deep Learning Specialization certification](https://www.coursera.org/specializations/deep-learning).
+- [ ] Completed 5 big projects, 12 projects and won awards, priority in AI field and complete the [Deep Learning Specialization certification](https://www.coursera.org/specializations/deep-learning)✍️
   - [ ] 5 big projects.
   - [ ] 12 projects.
   - [ ] Awards.
   - [ ] Deep Learning Specialization certification.
-- [ ] 2 paper approved and published by international conference.
+- [ ] Two paper approved and published by international conference📕
   - [ ] First paper
   - [ ] Second paper
-- [ ] Become a member of [AISIA Research Lab](https://aisia.vn/) or [VinBigData/VinAI](https://institute.vinbigdata.org/newpresses/chuong-trinh-dao-tao-ky-su-ai-cua-vingroup-tuyen-sinh-nam-thu-4/)
+- [ ] Become a member of [AISIA Research Lab](https://aisia.vn/) or [VinBigData/VinAI](https://institute.vinbigdata.org/newpresses/chuong-trinh-dao-tao-ky-su-ai-cua-vingroup-tuyen-sinh-nam-thu-4/)🏫
+- [ ] Becoming a speaker and conversing in English (because Vietnamese has become too easy for me)👨‍💼
+- [ ] Go abroad🌏
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>🌠Further goals</b>
 
-- [ ] Win Ph.D. fellowships in the top-ranked universities worldwide.
-- [ ] Own a business.
+⭐ Win Ph.D. fellowships in the top-ranked universities worldwide.\
+⭐ Own a business.
 
 
 ![MountainClimbingAxePickGIF](https://github.com/AppSalmon/AppSalmon/assets/120777599/340a994a-f691-41f6-9630-3b8ba009f550)
