@@ -33,6 +33,7 @@
   - [ ] Read 10 bilingual books.
   - [ ] Listen and understand English videos.
   - [ ] Can talk to foreigners.
+  - [ ] Ielts 6.5 overall.
 - [ ] Completed 5 big projects, 12 projects and won awards, priority in AI field and complete the [Deep Learning Specialization certification](https://www.coursera.org/specializations/deep-learning)✍️
   - [ ] 5 big projects.
   - [ ] 12 projects.
