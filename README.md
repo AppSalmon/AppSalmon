@@ -39,17 +39,15 @@
   - [ ] 12 projects.
   - [X] Awards (current: 1 - Eureka consolation prize).
   - [ ] Deep Learning Specialization certification.
-- [ ] Two paper approved and published by international conference📕
-  - [ ] First paper
-  - [ ] Second paper
-- [ ] Become a member of [AISIA Research Lab](https://aisia.vn/) or [VinBigData/VinAI](https://institute.vinbigdata.org/newpresses/chuong-trinh-dao-tao-ky-su-ai-cua-vingroup-tuyen-sinh-nam-thu-4/)🏫
 - [ ] Becoming a speaker and conversing in English (because Vietnamese has become too easy for me)👨‍💼
+- [ ] Save 100 million VND
+- [ ] Start a business
 - [ ] Go abroad🌏
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>🌠Further goals</b>
 
 ⭐ Win Ph.D. fellowships in the top-ranked universities worldwide.\
-⭐ Own a business.
+⭐ Own a company.
 
 
 ![MountainClimbingAxePickGIF](https://github.com/AppSalmon/AppSalmon/assets/120777599/340a994a-f691-41f6-9630-3b8ba009f550)
