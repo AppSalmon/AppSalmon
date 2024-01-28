@@ -3,10 +3,10 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- I am currently focusing on researching artificial intelligence
+- I am focusing on researching artificial intelligence products
 - A third-year student at the [Industrial University of Ho Chi Minh City](https://iuh.edu.vn/)
 - My blog - [AppSalmon](https://appsalmon.github.io/)
-- You can see my resume [here](https://appsalmon.github.io/about/#2)
+- You can see my [resume](https://appsalmon.github.io/about/#2) or my [CV](https://github.com/AppSalmon/AppSalmon/blob/main/DaoXuanHoangTuan_cv.pdf)
 
 
 
@@ -25,29 +25,25 @@
 
 *After having achieved all the 2023 goals ahead of schedule, I will begin pursuing the 2024 goals on October 1, 2023*
 
-- [ ] Won a scholarship for the 1st and 2nd semester of the 3rd year🧑‍🎓
-  - [ ] Semester 1 Scholarship.
-  - [ ] Semester 2 Scholarship.
-- [ ] Learned 3000 more English words, Read 10 bilingual books, Listen and understand English videos, Can talk with foreigners🗽
+- [ ] Study English🗽
   - [ ] 3000 more English words. <!-- 1823 + 3000 = 4823 -->
   - [ ] Read 10 bilingual books.
   - [ ] Listen and understand English videos.
   - [ ] Can talk to foreigners.
   - [ ] Ielts 6.5 overall.
-- [ ] Completed 5 big projects, 12 projects and won awards, priority in AI field and complete the [Deep Learning Specialization certification](https://www.coursera.org/specializations/deep-learning)✍️
+- [ ] Specialized study ✍️
   - [ ] 5 big projects.
   - [ ] 12 projects.
   - [X] Awards (current: 1 - Eureka consolation prize).
-  - [ ] Deep Learning Specialization certification.
+  - [ ] Courses ([Deep Learning Specialization certification - 5 course series](https://www.coursera.org/specializations/deep-learning)).
 - [ ] Becoming a speaker and conversing in English (because Vietnamese has become too easy for me)👨‍💼
-- [ ] Save 100 million VND
-- [ ] Start a business
+- [ ] Work at a company.
+- [ ] Assets 100 million VNĐ.
+- [ ] Start a business build a good product for users.
 - [ ] Go abroad🌏
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>🌠Further goals</b>
-
-⭐ Win Ph.D. fellowships in the top-ranked universities worldwide.\
-⭐ Own a company.
+⭐ The owner of a company that **builds products that are useful to people**.
 
 
 ![MountainClimbingAxePickGIF](https://github.com/AppSalmon/AppSalmon/assets/120777599/340a994a-f691-41f6-9630-3b8ba009f550)
