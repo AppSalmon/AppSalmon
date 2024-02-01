@@ -6,7 +6,7 @@
 - I am focusing on researching artificial intelligence products
 - A third-year student at the [Industrial University of Ho Chi Minh City](https://iuh.edu.vn/)
 - My blog - [AppSalmon](https://appsalmon.github.io/)
-- You can see my [resume](https://appsalmon.github.io/about/#2) or my [CV](https://github.com/AppSalmon/AppSalmon/blob/main/DaoXuanHoangTuan_cv.pdf)
+- You can see my [resume](https://appsalmon.github.io/about/#2) or my [CV](https://github.com/AppSalmon/AppSalmon/blob/main/DaoXuanHoangTuan_cv_1_2024.pdf)
 
 
 
