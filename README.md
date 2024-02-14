@@ -26,8 +26,6 @@
 *After having achieved all the 2023 goals ahead of schedule, I will begin pursuing the 2024 goals on October 1, 2023*
 
 - [ ] Study English🗽
-  - [ ] 3000 more English words. <!-- 1823 + 3000 = 4823 -->
-  - [ ] Read 10 bilingual books.
   - [ ] Listen and understand English videos.
   - [ ] Can talk to foreigners.
   - [ ] Ielts 6.5 overall.
@@ -36,6 +34,7 @@
   - [ ] 12 projects.
   - [X] Awards (current: 1 - Eureka consolation prize).
   - [ ] Courses ([Deep Learning Specialization certification - 5 course series](https://www.coursera.org/specializations/deep-learning)).
+- [ ] Gain 10kg (started at 50kg)💪  
 - [ ] Becoming a speaker and conversing in English (because Vietnamese has become too easy for me)👨‍💼
 - [ ] Work at a company.
 - [ ] Assets 100 million VNĐ.
