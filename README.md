@@ -30,13 +30,14 @@
   - [ ] Can talk to foreigners.
   - [ ] Ielts 6.5 overall.
 - [ ] Specialized study ✍️
-  - [ ] 5 big projects.
-  - [ ] 12 projects.
+  - [ ] 5 big projects. <!-- (UITDS2023 - Fact checking for Vietnamese✅, VietNamDatathon2023 - AIstyle✅, DataGotTalent - EDA Data Cinema Company✅, Dery startup) -->
+  - [ ] 12 projects. <!-- (Todolist website✅, Implementation Neural Network Recognize The Shape Of Objects✅, Training python lecture✅, Common Repcounting Accuracy)-->
   - [X] Awards (current: 1 - Eureka consolation prize).
-  - [ ] Courses ([Deep Learning Specialization certification - 5 course series](https://www.coursera.org/specializations/deep-learning)).
-- [ ] Gain 10kg (started at 50kg)💪  
+  - [ ] Courses ([Machine Learning Specialization Certification - 3 course series](https://www.coursera.org/specializations/machine-learning-introduction)).
+  - [ ] Courses ([Deep Learning Specialization Certification - 5 course series](https://www.coursera.org/specializations/deep-learning)).
+- [ ] Gain 10kg (started at 50kg)💪
 - [ ] Becoming a speaker and conversing in English (because Vietnamese has become too easy for me)👨‍💼
-- [ ] Work at a company.
+- [X] Work at a company (IX-health).
 - [ ] Assets 100 million VNĐ.
 - [ ] Start a business build a good product for users.
 - [ ] Go abroad🌏
