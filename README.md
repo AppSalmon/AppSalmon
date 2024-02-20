@@ -23,6 +23,8 @@
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>✨My 7 goals in 2024</b>
 
+<!-- https://www.canva.com/design/DAF9XC24RV8/BaUkceru0Kl37dYHU-MCIw/edit -->
+
 *After having achieved all the 2023 goals ahead of schedule, I will begin pursuing the 2024 goals on October 1, 2023*
 
 - [ ] Study English🗽
