@@ -37,7 +37,7 @@
   - [ ] Courses ([Deep Learning Specialization Certification - 5 course series](https://www.coursera.org/specializations/deep-learning)).
 - [ ] Gain 10kg (started at 50kg)💪
 - [ ] Becoming a speaker and conversing in English (because Vietnamese has become too easy for me)👨‍💼
-- [X] Work at a company (IX-health).
+- [X] Work at a company ([IX-health](https://me.ix-health.com/)).
 - [ ] Assets 100 million VNĐ.
 - [ ] Start a business build a good product for users.
 - [ ] Go abroad🌏
