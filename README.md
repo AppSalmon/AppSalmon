@@ -1,7 +1,7 @@
 
 <h2 align="center"><b>Hi , I'm Salmon </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
-## <picture><img src = "" width = 50px></picture> **About me**
+## <picture><img src = "https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width = 50px></picture> **About me**
 
 - I am focusing on researching artificial intelligence products
 - A third-year student at the [Industrial University of Ho Chi Minh City](https://iuh.edu.vn/)
