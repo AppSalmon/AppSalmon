@@ -28,7 +28,7 @@
 *After having achieved all the 2023 goals ahead of schedule, I will begin pursuing the 2024 goals on October 1, 2023*
 
 - [ ] Study English🗽
-  - [ ] Listen and understand English videos.
+  - [X] Listen and understand English videos.
   - [X] Can talk to foreigners.
   - [ ] Ielts 6.5 overall.
 - [X] Specialized study ✍️
