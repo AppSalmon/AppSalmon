@@ -4,7 +4,7 @@
 ## <picture><img src = "https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width = 50px></picture> **About me**
 
 - I am focusing on researching artificial intelligence products
-- A third-year student at the [Industrial University of Ho Chi Minh City](https://iuh.edu.vn/)
+- A final year student at the [Industrial University of Ho Chi Minh City](https://iuh.edu.vn/)
 - My blog - [AppSalmon](https://appsalmon.github.io/)
 - You can see my [resume](https://appsalmon.github.io/about/#2) or my [CV](https://github.com/AppSalmon/AppSalmon/blob/main/Dao_Xuan_Hoang_Tuan_CV_DS_12_11_24.pdf)
 
@@ -44,6 +44,14 @@
 - [X] Start a business build a good product for users.
 - [X] Go abroad🌏
 
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>✨My 5 goals in 2025</b>
+
+- [ ] Toeic 700.
+- [ ] Financial independence  <!--(Earn 300 million VND).  -->
+- [ ] Small business
+- [ ] A solo trip to Da Nang to visit friends, stay at a luxury hotel, look down on the city and sea from above.
+- [ ] A solo trip to Singapore to visit Mr. Tuan, and experience the uniqueness of this country
+
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>🌠Further goals</b>
 ⭐ The owner of a company that **builds products that are useful to people**.
 
@@ -56,5 +64,5 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-  <p align="right"><em>Update: 22/09/2023</em></p>
+  <p align="right"><em>Update: 26/02/2025</em></p>
 
