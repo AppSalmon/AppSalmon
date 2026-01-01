@@ -47,13 +47,24 @@
 - [X] Start a business build a good product for users.
 - [X] Go abroad🌏
 -->
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>✨My 5 goals in 2025</b>
+
+
+<!-- ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>✨My 5 goals in 2025</b>
+
+- [ ] Toeic 700. (Chưa thi)
+- [ ] Financial independence (Earn 300 million VND). (Làm nhiều mà đầu tư cho sự nghiệp cũng nhiều nên không dư)
+- [X] Small business (Có nhiều MVP)
+- [ ] A solo trip to Da Nang to visit friends, stay at a luxury hotel, look down on the city and sea from above. (Chưa có thời gian đi Đà Nẵng)
+- [X] A solo trip to Singapore to visit Mr. Tuan, and experience the uniqueness of this country (Tôi đang làm việc tại đất nước này)
+-->
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>✨My 5 goals in 2026</b>
 
 - [ ] Toeic 700.
-- [ ] Financial independence  <!--(Earn 300 million VND).  -->
-- [ ] Small business
-- [ ] A solo trip to Da Nang to visit friends, stay at a luxury hotel, look down on the city and sea from above.
-- [ ] A solo trip to Singapore to visit Mr. Tuan, and experience the uniqueness of this country
+- [ ] 3 Paper International reputation
+- [ ] A trip to Europe
+- [ ] A product used by many people
+- [ ] Get a high-paying official job in Singapore
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>🌠Further goals</b>
 ⭐ The owner of a company that **builds products that are useful to people**.
@@ -67,5 +78,5 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-  <p align="right"><em>Update: 26/02/2025</em></p>
+  <p align="right"><em>Update: 1/1/2026</em></p>
 
